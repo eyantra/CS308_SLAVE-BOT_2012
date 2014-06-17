@@ -1,0 +1,10 @@
+C:\Users\Tarun\Desktop\camtest\C__Webcam_161075762003\Webcam_Test\bin\Debug\Webcam_Test.exe
+C:\Users\Tarun\Desktop\camtest\C__Webcam_161075762003\Webcam_Test\bin\Debug\Webcam_Test.pdb
+C:\Users\Tarun\Desktop\camtest\C__Webcam_161075762003\Webcam_Test\bin\Debug\WebCam_Capture.dll
+C:\Users\Tarun\Desktop\camtest\C__Webcam_161075762003\Webcam_Test\bin\Debug\WebCam_Capture.pdb
+C:\Users\Tarun\Desktop\camtest\C__Webcam_161075762003\Webcam_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tarun\Desktop\camtest\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.Form1.resources
+C:\Users\Tarun\Desktop\camtest\C__Webcam_161075762003\Webcam_Test\obj\Debug\ResGen.read.1.tlog
+C:\Users\Tarun\Desktop\camtest\C__Webcam_161075762003\Webcam_Test\obj\Debug\ResGen.write.1.tlog
+C:\Users\Tarun\Desktop\camtest\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.exe
+C:\Users\Tarun\Desktop\camtest\C__Webcam_161075762003\Webcam_Test\obj\Debug\Webcam_Test.pdb

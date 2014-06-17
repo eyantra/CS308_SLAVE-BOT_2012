@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCam_Capture", "WebCam_Capture.csproj", "{782C366A-DD3B-4ED3-8A21-71A1F03947ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Webcam_Test", "Webcam_Test\Webcam_Test.csproj", "{79C5A124-F4B8-4E98-A6CC-3B64F5FBE317}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{782C366A-DD3B-4ED3-8A21-71A1F03947ED}.Debug.ActiveCfg = Debug|.NET
+		{782C366A-DD3B-4ED3-8A21-71A1F03947ED}.Debug.Build.0 = Debug|.NET
+		{782C366A-DD3B-4ED3-8A21-71A1F03947ED}.Release.ActiveCfg = Release|.NET
+		{782C366A-DD3B-4ED3-8A21-71A1F03947ED}.Release.Build.0 = Release|.NET
+		{79C5A124-F4B8-4E98-A6CC-3B64F5FBE317}.Debug.ActiveCfg = Debug|.NET
+		{79C5A124-F4B8-4E98-A6CC-3B64F5FBE317}.Debug.Build.0 = Debug|.NET
+		{79C5A124-F4B8-4E98-A6CC-3B64F5FBE317}.Release.ActiveCfg = Release|.NET
+		{79C5A124-F4B8-4E98-A6CC-3B64F5FBE317}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
